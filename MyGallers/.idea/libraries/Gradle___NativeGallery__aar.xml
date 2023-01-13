@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :NativeGallery:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94016e8e62b59c52e20de07888e08093/NativeGallery/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94016e8e62b59c52e20de07888e08093/NativeGallery/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94016e8e62b59c52e20de07888e08093/NativeGallery/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
